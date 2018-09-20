@@ -2,4 +2,7 @@
 /main.py
 /Similarity_calculater.py
 /test.py
-/memo.txt
+/memo.tx
+
+#無視するディレクトリ
+__pycache__
