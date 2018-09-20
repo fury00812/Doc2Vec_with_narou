@@ -1,0 +1,4 @@
+#無視するファイル
+/main.py
+/Similarity_calculater.py
+/test.py
